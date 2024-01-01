@@ -1,5 +1,5 @@
 # bakumetsu_overview
 <div id="header" align="center">
-  <img src="https://e7.pngegg.com/pngimages/144/288/png-clipart-akumetsu-original-english-language-manga-comics-anime-manga-antler-manga.png" width="100"/>
+  <img src="https://static.miraheze.org/allthetropeswiki/f/f1/Akumetsu.jpg" width="100"/>
 </div>
 
