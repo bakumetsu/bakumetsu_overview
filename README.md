@@ -14,5 +14,6 @@
   </a>
 </div>
 <div id="badges" align="center"> 
- <a href="github-profile-view">
-    <img src="https://komarev.com/ghpvc/?username=bakumetsu&style=flat-square&color=blue" alt=""/>
+ <a href="https://www.codeabbey.com/index/user_profile/bakumetsu">
+  <img src="https://www.codeabbey.com/index/user_banner/bakumetsu.png" alt="Your Name at CodeAbbey"/>
+</a>
